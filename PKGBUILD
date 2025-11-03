@@ -5,10 +5,10 @@ pkgver=1.0.0
 pkgrel=1
 pkgdesc="A comprehensive GUI tool for managing NVIDIA GPU settings on Linux"
 arch=('any')
-url="https://github.com/ritzdacat/nvidia-control-gui"
+url="https://github.com/RitzDaCat/nvidia-control-gui"
 license=('GPL3')
 # For AUR submission, update the source and sha256sums below:
-# source=("https://github.com/ritzdacat/nvidia-control-gui/archive/v${pkgver}.tar.gz")
+# source=("https://github.com/RitzDaCat/nvidia-control-gui/archive/v${pkgver}.tar.gz")
 # sha256sums=('your_sha256_sum_here')
 depends=(
     'python'

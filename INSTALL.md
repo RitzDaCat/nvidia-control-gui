@@ -6,7 +6,7 @@
 
 1. **Clone or download the repository:**
    ```bash
-   git clone https://github.com/ritzdacat/nvidia-control-gui.git
+   git clone https://github.com/RitzDaCat/nvidia-control-gui.git
    cd nvidia-control-gui
    ```
 

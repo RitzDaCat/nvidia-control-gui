@@ -59,3 +59,6 @@ config.local
 *~
 Gemini_Generated_Image_*
 
+# Documentation (internal - moved to docs/)
+# Keep README.md, CHANGELOG.md, INSTALL.md, LICENSE in root
+

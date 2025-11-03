@@ -5,11 +5,11 @@ A comprehensive GUI tool for managing NVIDIA GPU settings on Linux, specifically
 ## Badges
 
 [![License](https://img.shields.io/badge/license-GPL3-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/ritzdacat/nvidia-control-gui/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/RitzDaCat/nvidia-control-gui/releases)
 [![Python](https://img.shields.io/badge/python-3.6+-green.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)](https://www.linux.org/)
 [![Arch Linux](https://img.shields.io/badge/arch%20linux-supported-blue.svg)](https://archlinux.org/)
-[![Maintenance](https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg)](https://github.com/ritzdacat/nvidia-control-gui)
+[![Maintenance](https://img.shields.io/badge/maintenance-actively--developed-brightgreen.svg)](https://github.com/RitzDaCat/nvidia-control-gui)
 
 ### Dependencies
 
@@ -20,7 +20,6 @@ A comprehensive GUI tool for managing NVIDIA GPU settings on Linux, specifically
 
 ---
 
-**Note**: Replace `ritzdacat` in badge URLs with your actual GitHub username after creating the repository.
 
 ## Overview
 
@@ -160,7 +159,7 @@ This method creates a proper Arch Linux package that can be managed with pacman.
 
 ```bash
 # Clone the repository
-git clone https://github.com/ritzdacat/nvidia-control-gui.git
+git clone https://github.com/RitzDaCat/nvidia-control-gui.git
 cd nvidia-control-gui
 
 # Build and install
@@ -584,7 +583,7 @@ For details on security implementation, see the code documentation.
 ## Contributing
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](.github/CONTRIBUTING.md)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ritzdacat/nvidia-control-gui/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/RitzDaCat/nvidia-control-gui/pulls)
 
 Contributions are welcome. Please see [CONTRIBUTING.md](.github/CONTRIBUTING.md) for guidelines.
 
@@ -592,7 +591,7 @@ Contributions are welcome. Please see [CONTRIBUTING.md](.github/CONTRIBUTING.md)
 
 ```bash
 # Clone repository
-git clone https://github.com/ritzdacat/nvidia-control-gui.git
+git clone https://github.com/RitzDaCat/nvidia-control-gui.git
 cd nvidia-control-gui
 
 # Install dependencies
@@ -631,8 +630,8 @@ This project is licensed under the GPL3 License - see the [LICENSE](LICENSE) fil
 Additional documentation is available:
 
 - [INSTALL.md](INSTALL.md) - Detailed installation guide
-- [PACKAGING.md](PACKAGING.md) - Arch Linux packaging guide
-- [AUR-SUBMISSION.md](AUR-SUBMISSION.md) - AUR submission guide
+- [docs/PACKAGING.md](docs/PACKAGING.md) - Arch Linux packaging guide
+- [docs/AUR-SUBMISSION.md](docs/AUR-SUBMISSION.md) - AUR submission guide
 - [CHANGELOG.md](CHANGELOG.md) - Version history and changes
 - [CONTRIBUTING.md](.github/CONTRIBUTING.md) - Contribution guidelines
 
