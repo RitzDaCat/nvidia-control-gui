@@ -1,0 +1,61 @@
+# Build artifacts
+*.pkg.tar.zst
+*.pkg.tar.xz
+*.pkg.tar.gz
+*.pkg.tar.bz2
+*.pkg.tar.lzo
+*.pkg.tar.lrz
+*.pkg.tar.lz4
+*.pkg.tar.Z
+*.pkg.tar
+*.pkg
+*.tar.gz
+*.tar.xz
+*.tar.bz2
+*.tar
+*.zip
+*.rpm
+*.deb
+
+# Build directories
+build/
+pkg/
+src/
+*.src.tar.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Package files (generated)
+.SRCINFO
+*.PKGBUILD.bak
+
+# Local config
+*.local
+config.local
+
+# Temporary files
+*.tmp
+*.bak
+*~
+Gemini_Generated_Image_*
+

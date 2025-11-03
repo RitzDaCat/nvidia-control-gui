@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=NVIDIA GPU Control
+GenericName=GPU Control Panel
+Comment=Control NVIDIA GPU settings including clock speeds and power limits
+Exec=/usr/bin/nvidia-control-gui
+Icon=nvidia-settings
+Terminal=false
+Categories=Settings;HardwareSettings;
+Keywords=nvidia;gpu;graphics;clock;power;performance;overclock;
+StartupNotify=true
+StartupWMClass=nvidia-control-gui
+MimeType=
+X-KDE-StartupNotify=true

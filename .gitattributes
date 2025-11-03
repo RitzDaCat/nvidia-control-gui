@@ -1,0 +1,29 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Python files
+*.py text eol=lf
+
+# Shell scripts
+*.sh text eol=lf
+
+# Markdown files
+*.md text eol=lf
+
+# Desktop files
+*.desktop text eol=lf
+
+# Service files
+*.service text eol=lf
+
+# Package files
+PKGBUILD text eol=lf
+.SRCINFO text eol=lf
+
+# Makefile
+Makefile text eol=lf
+
+# Git attributes
+.gitattributes text eol=lf
+.gitignore text eol=lf
+
